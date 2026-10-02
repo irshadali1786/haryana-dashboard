@@ -76,6 +76,30 @@ haryana_dashboard/
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](Screenshots/Dashboard.jpg)
+
+### Dashboard Overview
+
+![Dashboard 2](Screenshots/Dashboard2.jpg)
+
+### Dashboard Analytics
+
+![Dashboard 3](Screenshots/Dashboard3.jpg)
+
+### Earthquake Monitoring
+
+![Earthquake Monitoring](Screenshots/earthquake.jpg)
+
+### Earthquake Details
+
+![Earthquake Details](Screenshots/earthquake2.jpg)
+
+---
+
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the repository
@@ -165,7 +189,7 @@ python manage.py runserver
 ## 👨‍💻 Author
 
 **Irshadali**
-- GitHub: [@irshadaliks786-arch](https://github.com/irshadaliks786-arch)
+- GitHub: [@Irshadali1786](https://github.com/irshadali1786)
 
 ---
 
